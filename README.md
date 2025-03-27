@@ -1,5 +1,4 @@
 # Linkedin-Job-Scraper-Using-Web-Scraping
-# **LinkedIn Job Scraper**
 
 ## 📌 **Project Overview**
 This project is a web scraper that extracts job listings from LinkedIn using **Requests** and **BeautifulSoup**. The scraped job data is saved in both **CSV** and **SQLite database** for further analysis.
